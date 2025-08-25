@@ -1,0 +1,9 @@
+{
+  "name": "juice-shop-gitlab",
+  "version": "1.0.0",
+  "scripts": {
+    "setup": "python3 -m venv venv && . venv/bin/activate && pip install awscli"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
